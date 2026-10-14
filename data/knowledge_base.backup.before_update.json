@@ -1,0 +1,748 @@
+{
+  "knowledge": [
+    {
+      "id": "profil",
+      "category": "profil",
+      "questions": [
+        "apa itu BRMP Pengelola Hasil",
+        "BRMP Pengelola Hasil itu apa",
+        "BRMP Pengelola Hasil adalah apa",
+        "jelaskan BRMP Pengelola Hasil",
+        "tentang BRMP Pengelola Hasil",
+        "BRMP Pengelola Hasil",
+        "profil BRMP"
+      ],
+      "answer": "BRMP Pengelola Hasil merupakan unit yang berfokus pada pengelolaan hasil pertanian. Kegiatannya berkaitan dengan peningkatan kualitas dan kuantitas produksi, produktivitas dan efisiensi produksi, pengembangan program dan kegiatan, serta pengembangan pasar hasil pertanian."
+    },
+    {
+      "id": "tugas",
+      "category": "tugas",
+      "questions": [
+        "apa tugas BRMP",
+        "tugas BRMP Pengelola Hasil",
+        "BRMP Pengelola Hasil bertugas apa",
+        "BRMP mengurus apa",
+        "apa yang dilakukan BRMP",
+        "tugas dan fungsi BRMP"
+      ],
+      "answer": "Tugas BRMP Pengelola Hasil berkaitan dengan pengelolaan hasil pertanian. Di antaranya mendukung peningkatan kualitas dan kuantitas produksi, meningkatkan produktivitas dan efisiensi produksi, mengembangkan program dan kegiatan, serta mendukung pengembangan pasar hasil pertanian."
+    },
+    {
+      "id": "layanan",
+      "category": "layanan",
+      "questions": [
+        "apa layanan BRMP",
+        "layanan BRMP Pengelola Hasil",
+        "BRMP menyediakan layanan apa",
+        "bisa mendapatkan layanan apa",
+        "ada layanan untuk petani",
+        "BRMP melayani petani",
+        "bisa konsultasi ke BRMP",
+        "layanan yang tersedia"
+      ],
+      "answer": "BRMP Pengelola Hasil menyediakan beberapa bentuk layanan yang berkaitan dengan pengelolaan hasil pertanian. Layanannya mencakup informasi dan layanan teknis untuk petani, pengelolaan hasil pertanian, serta pengembangan pasar hasil pertanian."
+    },
+    {
+      "id": "petani",
+      "category": "petani",
+      "questions": [
+        "saya petani",
+        "saya seorang petani",
+        "bantuan untuk petani",
+        "BRMP membantu petani",
+        "bagaimana BRMP membantu petani",
+        "layanan BRMP untuk petani",
+        "petani mendapatkan layanan apa",
+        "bisa bantu petani",
+        "Apakah BRMP melayani petani?",
+        "apakah BRMP melayani petani",
+        "BRMP melayani petani",
+        "Apa hubungan BRMP dengan petani?",
+        "apa hubungan BRMP dengan petani",
+        "hubungan BRMP dengan petani",
+        "apakah BRMP berhubungan dengan petani",
+        "apakah petani bisa mendapatkan layanan dari BRMP",
+        "apakah BRMP memberikan layanan kepada petani"
+      ],
+      "answer": "Tentu. BRMP Pengelola Hasil memberikan layanan informasi dan teknis untuk petani. Selain itu, BRMP juga mendukung peningkatan produktivitas dan efisiensi produksi. Jika Anda membutuhkan informasi yang lebih spesifik, Anda dapat menanyakan bidang atau layanan yang ingin diketahui."
+    },
+    {
+      "id": "konsultasi",
+      "category": "konsultasi",
+      "questions": [
+        "saya ingin konsultasi",
+        "bisa konsultasi",
+        "ingin konsultasi dengan BRMP",
+        "bagaimana cara konsultasi",
+        "konsultasi pertanian",
+        "mau konsultasi",
+        "bisa bertanya kepada BRMP"
+      ],
+      "answer": "Bisa. BRMP Pengelola Hasil menyediakan layanan informasi dan teknis yang berkaitan dengan pengelolaan hasil pertanian. Untuk konsultasi yang lebih spesifik, Anda dapat menghubungi pihak BRMP melalui kontak resmi yang tersedia agar mendapatkan informasi yang sesuai dengan kebutuhan Anda."
+    },
+    {
+      "id": "paten_umum",
+      "category": "paten",
+      "questions": [
+        "apa itu paten",
+        "informasi mengenai paten",
+        "jelaskan tentang paten",
+        "saya ingin tahu tentang paten",
+        "paten itu apa",
+        "pengertian paten",
+        "hak paten itu apa",
+        "apa yang dimaksud dengan paten",
+        "kalau paten bagaimana",
+        "bagaimana dengan paten",
+        "kalau paten itu apa"
+      ],
+      "answer": "Paten merupakan hak eksklusif yang diberikan oleh negara kepada inventor atas invensinya di bidang teknologi untuk jangka waktu tertentu. Informasi dan proses permohonan paten mengikuti ketentuan peraturan perundang-undangan yang berlaku. Ketentuan paten antara lain diatur dalam Undang-Undang Nomor 65 Tahun 2024 tentang Perubahan Ketiga atas Undang-Undang Nomor 13 Tahun 2016 tentang Paten serta Peraturan Menteri Hukum Republik Indonesia Nomor 6 Tahun 2026 tentang Permohonan Paten."
+    },
+    {
+      "id": "paten_persyaratan",
+      "category": "paten",
+      "questions": [
+        "apa syarat paten",
+        "syarat paten",
+        "persyaratan paten",
+        "apa saja syarat paten",
+        "apa syarat mengajukan paten",
+        "syarat mengajukan paten",
+        "ketentuan pengajuan paten",
+        "persyaratan mengajukan paten",
+        "syarat pendaftaran paten"
+      ],
+      "answer": "Persyaratan permohonan paten mencakup dokumen permohonan dan spesifikasi paten. Dokumen yang diperlukan antara lain deskripsi invensi, klaim, abstrak, serta gambar invensi apabila diperlukan. Persyaratan administratif dapat mencakup surat pernyataan kepemilikan invensi, surat pengalihan hak apabila diperlukan, surat kuasa apabila menggunakan kuasa atau konsultan KI, serta bukti pembayaran. Persyaratan lengkap mengikuti ketentuan yang berlaku pada saat permohonan diajukan."
+    },
+    {
+      "id": "paten_dokumen",
+      "category": "paten",
+      "questions": [
+        "dokumen paten",
+        "dokumen yang diperlukan untuk paten",
+        "dokumen untuk mengajukan paten",
+        "apa saja dokumen paten",
+        "kelengkapan dokumen paten",
+        "apa yang harus disiapkan untuk paten",
+        "dokumen pendaftaran paten",
+        "berkas pengajuan paten"
+      ],
+      "answer": "Dokumen permohonan paten antara lain mencakup dokumen permohonan, deskripsi invensi, klaim, abstrak, serta gambar invensi apabila ada atau diperlukan. Dokumen administratif dapat mencakup surat pernyataan kepemilikan invensi, surat pengalihan hak apabila diperlukan, surat kuasa apabila menggunakan konsultan KI, dan bukti pembayaran. Dalam kondisi tertentu dapat diperlukan dokumen tambahan sesuai keadaan pemohon dan jenis permohonan."
+    },
+    {
+      "id": "paten_prosedur",
+      "category": "paten",
+      "questions": [
+        "cara mengajukan paten",
+        "bagaimana cara mengajukan paten",
+        "saya mau mengajukan paten",
+        "mau mengajukan paten",
+        "cara daftar paten",
+        "bagaimana prosedur paten",
+        "prosedur pengajuan paten",
+        "prosedur pendaftaran paten",
+        "ingin mendaftarkan paten",
+        "pengajuan hak paten",
+        "bagaimana mengurus paten",
+        "tahapan pengajuan paten",
+        "tahapan pendaftaran paten",
+        "langkah mengajukan paten",
+        "bagaimana langkah pengajuan paten",
+        "mau paten",
+        "pengen paten"
+      ],
+      "answer": "Permohonan paten diajukan melalui layanan resmi DJKI. Secara umum pemohon menyiapkan data dan dokumen permohonan, mengisi permohonan, mengunggah atau menyerahkan dokumen yang dipersyaratkan, melakukan pembayaran sesuai ketentuan, kemudian mengikuti proses pemeriksaan administrasi dan tahapan pemeriksaan berikutnya sesuai jenis permohonan. Tata cara dan persyaratan mengikuti ketentuan yang berlaku, termasuk Peraturan Menteri Hukum Republik Indonesia Nomor 6 Tahun 2026 tentang Permohonan Paten."
+    },
+    {
+      "id": "paten_hasil_penelitian",
+      "category": "paten",
+      "questions": [
+        "hasil penelitian bisa dipatenkan",
+        "hasil penelitian dapat dipatenkan",
+        "apakah hasil penelitian bisa dipatenkan",
+        "inovasi bisa dipatenkan",
+        "apakah inovasi bisa dipatenkan",
+        "apa yang bisa dipatenkan",
+        "invensi bisa dipatenkan",
+        "penelitian saya bisa dipatenkan",
+        "hasil riset bisa dipatenkan",
+        "teknologi hasil penelitian bisa dipatenkan"
+      ],
+      "answer": "Hasil penelitian dapat berpotensi memperoleh perlindungan paten apabila menghasilkan invensi di bidang teknologi dan memenuhi persyaratan paten yang berlaku. Tidak semua hasil penelitian otomatis dapat dipatenkan. Penilaian harus melihat karakteristik invensinya dan persyaratan yang ditentukan dalam peraturan paten. Untuk memastikan kelayakan suatu hasil penelitian, diperlukan pemeriksaan lebih lanjut terhadap invensi tersebut."
+    },
+    {
+      "id": "paten_masa_berlaku",
+      "category": "paten",
+      "questions": [
+        "berapa lama paten berlaku",
+        "masa berlaku paten",
+        "masa perlindungan paten",
+        "berapa lama paten sederhana berlaku",
+        "masa berlaku paten sederhana",
+        "berapa lama jangka waktu perlindungan paten",
+        "paten berlaku berapa tahun",
+        "berapa lama masa berlakunya",
+        "masa berlakunya berapa lama"
+      ],
+      "answer": "Masa perlindungan paten biasa adalah 20 tahun sejak tanggal penerimaan permohonan, sedangkan untuk paten sederhana masa perlindungannya adalah 10 tahun. Masa perlindungan ini tidak dapat diperpanjang."
+    },
+    {
+      "id": "paten_lama_proses",
+      "category": "paten",
+      "questions": [
+        "berapa lama proses paten",
+        "berapa lama proses pendaftaran paten",
+        "berapa lama pengajuan paten diproses",
+        "durasi proses paten",
+        "berapa lama waktu pemeriksaan paten",
+        "lama pengajuan paten"
+      ],
+      "answer": "Lama proses pengajuan hingga penerbitan paten berbeda dengan masa perlindungan. Durasi proses pemeriksaan paten bergantung pada jenis paten, kelengkapan dokumen persyaratan, serta tahapan pemeriksaan administratif dan pemeriksaan substantif yang dilakukan oleh DJKI."
+    },
+    {
+      "id": "paten_peran_brmp",
+      "category": "paten",
+      "questions": [
+        "apakah BRMP menerima pendaftaran paten secara langsung",
+        "apakah bisa daftar paten di BRMP",
+        "peran BRMP dalam pengajuan paten",
+        "apakah BRMP mendaftarkan paten",
+        "bisa mengajukan paten lewat BRMP",
+        "apakah BRMP adalah kantor pendaftaran paten",
+        "bantuan BRMP untuk paten"
+      ],
+      "answer": "BRMP Pengelola Hasil bukan merupakan instansi pendaftaran paten resmi, melainkan berperan membantu dan menjembatani individu atau pihak terkait dalam proses penyiapan dan pendampingan pengajuan paten. Pengajuan pendaftaran paten secara resmi tetap dilakukan melalui Direktorat Jenderal Kekayaan Intelektual (DJKI)."
+    },
+    {
+      "id": "pvt_umum",
+      "category": "pvt",
+      "questions": [
+        "apa itu PVT",
+        "apa itu perlindungan varietas tanaman",
+        "jelaskan PVT",
+        "informasi mengenai PVT",
+        "PVT itu apa",
+        "hak PVT itu apa",
+        "perlindungan varietas tanaman itu apa",
+        "apa yang dimaksud perlindungan varietas tanaman",
+        "kalau PVT bagaimana",
+        "bagaimana dengan PVT",
+        "kalau perlindungan varietas tanaman bagaimana"
+      ],
+      "answer": "Perlindungan Varietas Tanaman atau PVT merupakan perlindungan khusus yang diberikan negara terhadap varietas tanaman yang memenuhi persyaratan sesuai ketentuan yang berlaku. Perlindungan ini berkaitan dengan varietas hasil pemuliaan yang memenuhi persyaratan untuk memperoleh hak PVT."
+    },
+    {
+      "id": "pvt_persyaratan",
+      "category": "pvt",
+      "questions": [
+        "apa syarat PVT",
+        "syarat PVT",
+        "persyaratan PVT",
+        "apa saja syarat PVT",
+        "syarat perlindungan varietas tanaman",
+        "ketentuan PVT",
+        "syarat mengajukan PVT",
+        "persyaratan mengajukan PVT"
+      ],
+      "answer": "Permohonan hak PVT harus memenuhi persyaratan sesuai ketentuan yang berlaku. Informasi permohonan mencakup identitas pemohon atau pengusul, informasi pemulia, nama varietas yang diusulkan, serta deskripsi varietas. Persyaratan lengkap dapat berbeda sesuai kondisi permohonan dan harus diperiksa berdasarkan ketentuan PVT yang berlaku."
+    },
+    {
+      "id": "pvt_dokumen",
+      "category": "pvt",
+      "questions": [
+        "dokumen PVT",
+        "dokumen yang diperlukan untuk PVT",
+        "dokumen untuk mengajukan PVT",
+        "apa saja dokumen PVT",
+        "berkas PVT",
+        "kelengkapan dokumen PVT",
+        "dokumen perlindungan varietas tanaman",
+        "apa yang harus disiapkan untuk PVT"
+      ],
+      "answer": "Dokumen permohonan PVT antara lain memuat surat permohonan dengan identitas pengusul, informasi pemulia, nama varietas yang diusulkan, serta deskripsi varietas. Deskripsi varietas dapat mencakup asal-usul atau silsilah varietas, ciri morfologi, sifat penting lainnya, serta gambar atau foto yang disebut dalam deskripsi. Dokumen tambahan mengikuti kondisi dan ketentuan permohonan PVT."
+    },
+    {
+      "id": "pvt_prosedur",
+      "category": "pvt",
+      "questions": [
+        "cara mengajukan PVT",
+        "bagaimana cara mengajukan PVT",
+        "cara daftar PVT",
+        "prosedur PVT",
+        "prosedur pendaftaran PVT",
+        "tahapan PVT",
+        "tahapan pendaftaran PVT",
+        "langkah mengajukan PVT",
+        "bagaimana mengurus PVT",
+        "ingin mendaftarkan varietas tanaman"
+      ],
+      "answer": "Pengajuan PVT dilakukan dengan menyiapkan permohonan dan dokumen yang dipersyaratkan, termasuk informasi varietas dan deskripsi varietas, kemudian mengikuti proses pemeriksaan sesuai ketentuan perlindungan varietas tanaman. Tata cara, formulir, pemeriksaan, dan persyaratan harus mengikuti ketentuan resmi yang berlaku pada saat permohonan diajukan."
+    },
+    {
+      "id": "pvt_hasil_penelitian",
+      "category": "pvt",
+      "questions": [
+        "hasil penelitian tanaman bisa mendapat PVT",
+        "hasil penelitian tanaman bisa dilindungi PVT",
+        "varietas hasil penelitian bisa didaftarkan",
+        "hasil pemuliaan bisa mendapat PVT",
+        "varietas hasil pemuliaan",
+        "tanaman hasil penelitian bisa dilindungi",
+        "varietas baru bisa mendapat PVT",
+        "hasil riset tanaman bisa mendapat PVT"
+      ],
+      "answer": "Hasil penelitian atau program pemuliaan tanaman dapat berpotensi memperoleh perlindungan varietas tanaman apabila menghasilkan varietas yang memenuhi persyaratan untuk memperoleh hak PVT. Kelayakan tidak ditentukan hanya karena varietas tersebut merupakan hasil penelitian, tetapi harus dinilai berdasarkan persyaratan PVT yang berlaku."
+    },
+    {
+      "id": "pvt_peran_brmp",
+      "category": "pvt",
+      "questions": [
+        "apakah BRMP membantu PVT",
+        "apakah bisa mengajukan PVT melalui BRMP",
+        "apakah BRMP menerima pendaftaran PVT",
+        "apakah BRMP mendaftarkan PVT",
+        "peran BRMP dalam PVT",
+        "bantuan BRMP untuk PVT",
+        "pendampingan PVT di BRMP"
+      ],
+      "answer": "BRMP Pengelola Hasil dapat memberikan informasi dan pendampingan sesuai layanan yang tersedia terkait perlindungan varietas tanaman. BRMP bukan merupakan satu-satunya instansi yang menentukan pemberian hak PVT. Pengajuan dan proses resminya mengikuti mekanisme serta instansi yang berwenang sesuai ketentuan PVT."
+    },
+    {
+      "id": "merek_umum",
+      "category": "merek",
+      "questions": [
+        "apa itu merek",
+        "apa itu merk",
+        "apa itu merek dagang",
+        "apa itu merk dagang",
+        "apa itu merek jasa",
+        "apa itu merk jasa",
+        "jelaskan merek",
+        "jelaskan merk",
+        "informasi mengenai merek",
+        "informasi mengenai merk",
+        "merek itu apa",
+        "merk itu apa",
+        "pengertian merek",
+        "pengertian merk",
+        "fungsi merek",
+        "fungsi merk",
+        "kenapa merek perlu didaftarkan",
+        "kenapa merk perlu didaftarkan",
+        "kalau merek bagaimana",
+        "kalau merk bagaimana",
+        "bagaimana dengan merek",
+        "bagaimana dengan merk"
+      ],
+      "answer": "Merek merupakan tanda yang dapat ditampilkan secara grafis untuk membedakan barang dan/atau jasa yang diproduksi atau disediakan oleh pihak tertentu dari barang dan/atau jasa pihak lain. Pendaftaran merek memberikan perlindungan hukum sesuai ketentuan peraturan perundang-undangan yang berlaku."
+    },
+    {
+      "id": "merek_persyaratan",
+      "category": "merek",
+      "questions": [
+        "apa syarat merek",
+        "syarat merek",
+        "persyaratan pendaftaran merek",
+        "apa saja syarat merek",
+        "syarat daftar merek",
+        "ketentuan pendaftaran merek",
+        "merek apa yang bisa didaftarkan",
+        "persyaratan mengajukan merek"
+      ],
+      "answer": "Permohonan pendaftaran merek harus memenuhi persyaratan yang ditentukan oleh ketentuan pendaftaran merek. Informasi permohonan antara lain mencakup identitas pemohon, label merek, kelas barang dan/atau jasa, uraian barang dan/atau jasa, serta pembayaran biaya permohonan. Merek juga harus memenuhi ketentuan substantif dan tidak termasuk tanda yang dilarang atau alasan penolakan menurut peraturan yang berlaku."
+    },
+    {
+      "id": "merek_dokumen",
+      "category": "merek",
+      "questions": [
+        "dokumen merek",
+        "dokumen yang diperlukan untuk merek",
+        "dokumen pendaftaran merek",
+        "apa saja dokumen merek",
+        "berkas pendaftaran merek",
+        "kelengkapan dokumen merek",
+        "apa yang harus disiapkan untuk daftar merek",
+        "dokumen pengajuan merek"
+      ],
+      "answer": "Dokumen dan informasi yang diperlukan dalam permohonan merek antara lain data pemohon, label atau tanda merek, kelas barang dan/atau jasa beserta uraian jenis barang atau jasa, serta bukti pembayaran sesuai ketentuan. Dalam kondisi tertentu dapat diperlukan dokumen kuasa atau dokumen terkait hak prioritas. Kelengkapan harus mengikuti persyaratan resmi pada saat permohonan diajukan."
+    },
+    {
+      "id": "merek_prosedur",
+      "category": "merek",
+      "questions": [
+        "cara daftar merek",
+        "cara daftar merk",
+        "bagaimana cara mendaftarkan merek",
+        "bagaimana cara mendaftarkan merk",
+        "cara mengajukan merek",
+        "cara mengajukan merk",
+        "prosedur pendaftaran merek",
+        "prosedur pendaftaran merk",
+        "tahapan pendaftaran merek",
+        "tahapan pendaftaran merk",
+        "langkah daftar merek",
+        "langkah daftar merk",
+        "bagaimana mengurus merek",
+        "bagaimana mengurus merk",
+        "ingin mendaftarkan merek",
+        "ingin mendaftarkan merk",
+        "cara mendaftarkan merek dagang",
+        "cara daftar merek usaha"
+      ],
+      "answer": "Secara umum, pendaftaran merek dilakukan dengan menyiapkan data pemohon, label merek, kelas dan uraian barang atau jasa, kemudian mengajukan permohonan melalui layanan resmi DJKI dan memenuhi pembayaran serta dokumen yang dipersyaratkan. Setelah permohonan diajukan, permohonan mengikuti proses pemeriksaan sesuai ketentuan pendaftaran merek yang berlaku."
+    },
+    {
+      "id": "merek_penolakan",
+      "category": "merek",
+      "questions": [
+        "kenapa merek ditolak",
+        "kenapa merk ditolak",
+        "alasan merek ditolak",
+        "alasan merk ditolak",
+        "merek bisa ditolak karena apa",
+        "merk bisa ditolak karena apa",
+        "apa penyebab pendaftaran merek ditolak",
+        "apa penyebab pendaftaran merk ditolak",
+        "merek tidak bisa didaftarkan",
+        "merk tidak bisa didaftarkan",
+        "merek yang tidak boleh didaftarkan",
+        "merk yang tidak boleh didaftarkan",
+        "apa saja alasan penolakan merek",
+        "apa saja alasan penolakan merk"
+      ],
+      "answer": "Permohonan merek dapat ditolak apabila memenuhi alasan penolakan yang ditentukan dalam peraturan, misalnya karena tidak memiliki daya pembeda, menyerupai atau mempunyai persamaan pada pokoknya dengan merek tertentu yang telah terdaftar atau diajukan lebih dahulu untuk barang atau jasa sejenis, atau termasuk tanda yang dilarang oleh ketentuan hukum. Pemeriksaan harus dilakukan berdasarkan keadaan dan kelas barang atau jasa yang diajukan."
+    },
+    {
+      "id": "merek_peran_brmp",
+      "category": "merek",
+      "questions": [
+        "apakah BRMP membantu pendaftaran merek",
+        "apakah bisa daftar merek melalui BRMP",
+        "apakah bisa daftar merk melalui BRMP",
+        "apakah BRMP menerima pendaftaran merek",
+        "apakah BRMP menerima pendaftaran merk",
+        "apakah BRMP mendaftarkan merek",
+        "apakah BRMP mendaftarkan merk",
+        "bisa mengajukan merek lewat BRMP",
+        "bisa mengajukan merk lewat BRMP",
+        "peran BRMP dalam pendaftaran merek",
+        "peran BRMP dalam pendaftaran merk",
+        "bantuan BRMP untuk merek",
+        "bantuan BRMP untuk merk",
+        "BRMP membantu pengajuan merek"
+      ],
+      "answer": "BRMP Pengelola Hasil dapat berperan dalam memberikan informasi dan pendampingan terkait kekayaan intelektual sesuai layanan yang tersedia. Namun, BRMP bukan instansi pendaftaran merek resmi. Pengajuan pendaftaran merek secara resmi dilakukan melalui layanan Direktorat Jenderal Kekayaan Intelektual (DJKI)."
+    },
+    {
+      "id": "hak_cipta_umum",
+      "category": "hak_cipta",
+      "questions": [
+        "apa itu hak cipta",
+        "jelaskan hak cipta",
+        "informasi mengenai hak cipta",
+        "hak cipta itu apa",
+        "apa yang dimaksud hak cipta",
+        "fungsi hak cipta",
+        "apa yang dilindungi hak cipta",
+        "karya bisa dilindungi hak cipta",
+        "kalau hak cipta bagaimana",
+        "bagaimana dengan hak cipta"
+      ],
+      "answer": "Hak Cipta merupakan hak eksklusif pencipta yang timbul secara otomatis berdasarkan prinsip deklaratif setelah suatu ciptaan diwujudkan dalam bentuk nyata. Hak cipta melindungi ciptaan di bidang ilmu pengetahuan, seni, dan sastra sesuai dengan ketentuan peraturan perundang-undangan yang berlaku."
+    },
+    {
+      "id": "hak_cipta_persyaratan",
+      "category": "hak_cipta",
+      "questions": [
+        "apa syarat hak cipta",
+        "syarat hak cipta",
+        "persyaratan hak cipta",
+        "apa saja syarat hak cipta",
+        "syarat pencatatan hak cipta",
+        "persyaratan pencatatan ciptaan",
+        "ketentuan hak cipta",
+        "syarat mendaftarkan hak cipta"
+      ],
+      "answer": "Untuk pencatatan ciptaan, pemohon perlu memberikan data dan informasi mengenai pencipta, pemegang hak, serta ciptaan yang akan dicatat sesuai persyaratan layanan. Hak cipta sendiri timbul secara otomatis setelah ciptaan diwujudkan, sehingga pencatatan bukan merupakan syarat lahirnya hak cipta. Persyaratan pencatatan mengikuti ketentuan layanan resmi yang berlaku."
+    },
+    {
+      "id": "hak_cipta_dokumen",
+      "category": "hak_cipta",
+      "questions": [
+        "dokumen hak cipta",
+        "dokumen pencatatan hak cipta",
+        "dokumen yang diperlukan untuk hak cipta",
+        "apa saja dokumen hak cipta",
+        "berkas pencatatan hak cipta",
+        "kelengkapan dokumen hak cipta",
+        "apa yang harus disiapkan untuk hak cipta",
+        "dokumen pengajuan hak cipta"
+      ],
+      "answer": "Dokumen dan informasi pencatatan hak cipta disesuaikan dengan jenis ciptaan dan kondisi pemohon. Secara umum diperlukan data pencipta, data pemegang hak apabila berbeda, informasi mengenai ciptaan, serta salinan atau contoh ciptaan sesuai persyaratan layanan. Jika hak telah dialihkan atau pemohon bukan pencipta, dapat diperlukan dokumen yang membuktikan hubungan atau pengalihan hak."
+    },
+    {
+      "id": "hak_cipta_prosedur",
+      "category": "hak_cipta",
+      "questions": [
+        "cara daftar hak cipta",
+        "cara mengajukan hak cipta",
+        "bagaimana cara mendaftarkan hak cipta",
+        "prosedur pencatatan hak cipta",
+        "tahapan hak cipta",
+        "tahapan pencatatan hak cipta",
+        "langkah mencatatkan hak cipta",
+        "bagaimana mengurus hak cipta",
+        "ingin mendaftarkan hak cipta",
+        "cara mencatatkan karya"
+      ],
+      "answer": "Pencatatan ciptaan dilakukan melalui layanan resmi DJKI dengan menyiapkan data pemohon, informasi pencipta dan pemegang hak, informasi ciptaan, serta dokumen yang dipersyaratkan. Setelah permohonan diajukan dan persyaratan dipenuhi, proses pencatatan mengikuti pemeriksaan administrasi dan ketentuan layanan yang berlaku."
+    },
+    {
+      "id": "hak_cipta_karya",
+      "category": "hak_cipta",
+      "questions": [
+        "karya apa yang bisa mendapat hak cipta",
+        "apa saja yang dilindungi hak cipta",
+        "karya yang bisa dicatatkan hak cipta",
+        "apakah foto bisa hak cipta",
+        "apakah tulisan bisa hak cipta",
+        "apakah buku bisa hak cipta",
+        "apakah musik bisa hak cipta",
+        "apakah software bisa hak cipta",
+        "apakah video bisa hak cipta",
+        "apakah karya seni bisa hak cipta"
+      ],
+      "answer": "Hak Cipta dapat melindungi berbagai ciptaan di bidang ilmu pengetahuan, seni, dan sastra sepanjang memenuhi ketentuan yang berlaku. Contohnya dapat mencakup karya tulis, karya seni, musik, fotografi, audiovisual, dan jenis ciptaan lainnya yang termasuk dalam ruang lingkup perlindungan Hak Cipta. Untuk memastikan suatu karya termasuk ciptaan yang dilindungi, perlu dilihat jenis dan bentuk karya tersebut."
+    },
+    {
+      "id": "hak_cipta_peran_brmp",
+      "category": "hak_cipta",
+      "questions": [
+        "apakah BRMP membantu hak cipta",
+        "apakah BRMP membantu pencatatan hak cipta",
+        "apakah bisa mengajukan hak cipta melalui BRMP",
+        "apakah BRMP menerima pendaftaran hak cipta",
+        "apakah BRMP mendaftarkan hak cipta",
+        "peran BRMP dalam hak cipta",
+        "bantuan BRMP untuk hak cipta",
+        "pendampingan hak cipta di BRMP"
+      ],
+      "answer": "BRMP Pengelola Hasil dapat memberikan informasi dan pendampingan terkait kekayaan intelektual sesuai layanan yang tersedia. Namun, pencatatan Hak Cipta secara resmi dilakukan melalui layanan yang disediakan oleh Direktorat Jenderal Kekayaan Intelektual (DJKI)."
+    },
+    {
+      "id": "pelatihan",
+      "category": "pelatihan",
+      "questions": [
+        "apakah ada pelatihan",
+        "ada pelatihan",
+        "pelatihan pertanian",
+        "pelatihan untuk petani",
+        "program pelatihan BRMP",
+        "kegiatan pelatihan",
+        "bagaimana mengikuti pelatihan",
+        "ada pendidikan untuk petani"
+      ],
+      "answer": "Ya, salah satu kegiatan BRMP Pengelola Hasil mencakup pelatihan dan pendidikan bagi petani. Jika Anda ingin mengikuti kegiatan tersebut, informasi mengenai jadwal dan pendaftarannya dapat ditanyakan kepada pihak BRMP Pengelola Hasil."
+    },
+    {
+      "id": "program",
+      "category": "program",
+      "questions": [
+        "program BRMP apa saja",
+        "program BRMP Pengelola Hasil",
+        "ada program apa",
+        "kegiatan BRMP apa saja",
+        "program pertanian",
+        "kegiatan BRMP Pengelola Hasil"
+      ],
+      "answer": "Program dan kegiatan BRMP Pengelola Hasil mencakup pengembangan hasil pertanian, pengembangan pasar hasil pertanian, serta pelatihan dan pendidikan bagi petani. Jadi, kegiatannya tidak hanya berkaitan dengan hasil pertanian, tetapi juga mencakup aspek pengembangan pasar dan peningkatan kapasitas petani."
+    },
+    {
+      "id": "pasar",
+      "category": "pasar",
+      "questions": [
+        "informasi pasar pertanian",
+        "informasi pasar hasil pertanian",
+        "pasar hasil pertanian",
+        "pengembangan pasar pertanian",
+        "BRMP membantu pemasaran",
+        "saya ingin informasi pasar",
+        "pasar pertanian"
+      ],
+      "answer": "BRMP Pengelola Hasil memiliki kegiatan dan layanan yang berkaitan dengan pengembangan pasar hasil pertanian. Jika Anda ingin mengetahui informasi yang lebih spesifik mengenai pengembangan pasar atau pemasaran hasil pertanian, Anda dapat menghubungi pihak BRMP untuk mendapatkan informasi lebih lanjut."
+    },
+    {
+      "id": "teknologi",
+      "category": "teknologi",
+      "questions": [
+        "informasi teknologi pertanian",
+        "teknologi pertanian",
+        "ada informasi teknologi",
+        "informasi teknologi",
+        "teknologi untuk petani",
+        "pengembangan teknologi pertanian",
+        "Apa teknologi yang digunakan BRMP?",
+        "apa teknologi yang digunakan BRMP",
+        "teknologi yang digunakan BRMP",
+        "teknologi yang digunakan oleh BRMP",
+        "apa teknologi di BRMP",
+        "teknologi BRMP"
+      ],
+      "answer": "BRMP Pengelola Hasil menyediakan informasi yang berkaitan dengan teknologi pertanian. Informasi tersebut mendukung upaya peningkatan produktivitas dan efisiensi produksi. Jika Anda mencari informasi teknologi untuk kebutuhan tertentu, Anda dapat menyampaikan topik atau kebutuhannya agar informasi yang diberikan lebih sesuai."
+    },
+    {
+      "id": "kerjasama",
+      "category": "kerjasama",
+      "questions": [
+        "ingin kerja sama",
+        "mau kerja sama",
+        "kerja sama dengan BRMP",
+        "cara mengajukan kerja sama",
+        "pengajuan kerja sama",
+        "bagaimana prosedur kerja sama",
+        "bisa bekerja sama dengan BRMP",
+        "Apakah BRMP menerima kerja sama?",
+        "apakah BRMP menerima kerja sama",
+        "apakah BRMP menerima kerjasama",
+        "apakah BRMP membuka kerja sama",
+        "apakah bisa kerja sama dengan BRMP",
+        "menerima kerja sama",
+        "saya ingin mengajukan kerja sama",
+        "saya ingin bekerja sama dengan BRMP",
+        "bagaimana cara kerja sama dengan BRMP",
+        "bagaimana cara kerja sama dengan BRMP?"
+      ],
+      "answer": "Untuk informasi dan pengajuan kerja sama dengan BRMP Pengelola Hasil, Anda dapat menghubungi pihak BRMP melalui kontak resmi:\n- Telepon: (0251) 8382563\n- WhatsApp: 081805503899\n- Email: brmp.pengelolahasil@pertanian.go.id\n\nPihak BRMP Pengelola Hasil akan memberikan informasi lebih lanjut mengenai kebutuhan, peluang kemitraan, dan mekanisme kerja sama yang dapat dilakukan."
+    },
+    {
+      "id": "kontak",
+      "category": "kontak",
+      "questions": [
+        "kontak BRMP",
+        "bagaimana cara menghubungi BRMP",
+        "nomor telepon BRMP",
+        "email BRMP",
+        "cara menghubungi BRMP Pengelola Hasil",
+        "Bagaimana cara menghubungi BRMP?",
+        "cara menghubungi BRMP",
+        "nomor telepon BRMP berapa",
+        "nomor WhatsApp BRMP",
+        "nomor WhatsApp BRMP berapa",
+        "nomor WA BRMP",
+        "apa nomor WA BRMP",
+        "WhatsApp BRMP",
+        "WA BRMP",
+        "nomor BRMP",
+        "email BRMP Pengelola Hasil",
+        "apa email BRMP Pengelola Hasil",
+        "ingin menghubungi BRMP",
+        "ingin bertanya langsung ke BRMP",
+        "bagaimana cara menghubungi brmp",
+        "bagaimana cara hubungi BRMP",
+        "cara hubungi BRMP",
+        "hubungi BRMP",
+        "Bagaimana cara hubungi BRMP?",
+        "bagaimana cara menghubunginya",
+        "cara menghubunginya"
+      ],
+      "answer": "Tentu. Kalau ingin menghubungi BRMP Pengelola Hasil, Anda bisa melalui kontak resmi berikut:\n- Telepon: (0251) 8382563\n- WhatsApp: 081805503899\n- Email: brmp.pengelolahasil@pertanian.go.id\n\nSilakan pilih kontak yang paling sesuai dengan kebutuhan Anda."
+    },
+    {
+      "id": "lokasi",
+      "category": "lokasi",
+      "questions": [
+        "alamat BRMP",
+        "alamat kantor BRMP",
+        "lokasi BRMP",
+        "dimana lokasi BRMP",
+        "dimana kantor BRMP",
+        "di mana kantor BRMP",
+        "kantor BRMP Pengelola Hasil di mana",
+        "BRMP Pengelola Hasil ada di mana",
+        "bagaimana menuju kantor BRMP",
+        "lokasi kantor",
+        "lokasi kantor BRMP Pengelola Hasil",
+        "alamat BRMP Pengelola Hasil di mana",
+        "Alamat kantor BRMP Pengelola Hasil di mana?",
+        "kantor BRMP",
+        "di mana kantor BRMP Pengelola Hasil",
+        "dimana kantor BRMP Pengelola Hasil",
+        "di mana lokasi BRMP Pengelola Hasil",
+        "dimana lokasi BRMP Pengelola Hasil",
+        "lokasi BRMP Pengelola Hasil",
+        "alamat BRMP Pengelola Hasil",
+        "BRMP Pengelola Hasil berada di mana",
+        "BRMP Pengelola Hasil berlokasi di mana"
+      ],
+      "answer": "Kantor BRMP Pengelola Hasil berada di:\nJl. Salak No. 22, Kelurahan Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16128."
+    },
+    {
+      "id": "website",
+      "category": "website",
+      "questions": [
+        "website BRMP",
+        "website resmi BRMP",
+        "website resmi BRMP Pengelola Hasil",
+        "apa website resmi BRMP",
+        "apa website resmi BRMP Pengelola Hasil",
+        "website BRMP Pengelola Hasil",
+        "web resmi BRMP",
+        "web resmi BRMP Pengelola Hasil",
+        "web BRMP Pengelola Hasil",
+        "situs resmi BRMP",
+        "situs resmi BRMP Pengelola Hasil",
+        "situs BRMP Pengelola Hasil",
+        "apa alamat website BRMP Pengelola Hasil",
+        "link website BRMP Pengelola Hasil",
+        "alamat website BRMP",
+        "link website BRMP",
+        "url website BRMP"
+      ],
+      "answer": "Website resmi BRMP Pengelola Hasil dapat diakses melalui:\n[Website Resmi BRMP Pengelola Hasil](https://pengelolahasil.brmp.pertanian.go.id/)"
+    },
+    {
+      "id": "pengaduan",
+      "category": "pengaduan",
+      "questions": [
+        "saya ingin mengadu",
+        "saya mau mengadu",
+        "cara melakukan pengaduan",
+        "pengaduan BRMP",
+        "ingin menyampaikan pengaduan",
+        "ingin menyampaikan keluhan",
+        "saya ingin menyampaikan keluhan",
+        "saya mau melakukan pengaduan",
+        "saya punya keluhan tentang pelayanan BRMP",
+        "saya ingin melaporkan masalah",
+        "saya mau mengadu tentang pelayanan BRMP",
+        "cara membuat laporan",
+        "bagaimana cara membuat laporan",
+        "pengaduan",
+        "Bagaimana cara mengajukan pengaduan?",
+        "bagaimana cara mengajukan pengaduan",
+        "cara mengajukan pengaduan",
+        "bagaimana cara pengaduan",
+        "bagaimana mengajukan pengaduan",
+        "cara menyampaikan pengaduan",
+        "bagaimana cara menyampaikan keluhan",
+        "bagaimana cara menyampaikan keluhan layanan",
+        "menyampaikan keluhan layanan",
+        "tahapan pengaduan",
+        "bagaimana tahapan pengaduannya",
+        "bagaimana alur pengaduan",
+        "prosedur pengaduan"
+      ],
+      "answer": "Untuk menyampaikan pengaduan atau keluhan terkait layanan BRMP Pengelola Hasil, Anda dapat menggunakan kanal pengaduan resmi berikut:\n\n1. Pengaduan Internal:\n- [Formulir Pengaduan BRMP-PH](https://docs.google.com/forms/d/e/1FAIpQLSfmoA0XYcFVWZx_fL-Ve_meK7AWllC7P7SMz3TinmtP2lUFHg/viewform?pli=1)\n\n2. Pengaduan Eksternal:\n- [SP4N-LAPOR!](https://www.lapor.go.id/)\n- [WBS Kementerian Pertanian](https://wbs.pertanian.go.id/)\n- [Dumas Kementerian Pertanian](https://dumas.pertanian.go.id/)\n- [SIGAP UPG](https://sigapupg.pertanian.go.id/)\n\nTahapan umum pengaduan:\n1. Buat Aduan: Memilih kanal pengaduan yang sesuai.\n2. Login Layanan: Masuk ke layanan (jika kanal memerlukan login).\n3. Buat Laporan: Mengisi data, uraian pengaduan, dan bukti pendukung.\n4. Menunggu/Tindak Lanjut: Laporan diverifikasi dan ditindaklanjuti oleh pihak terkait.\n5. Penyelesaian: Memperoleh informasi hasil penanganan laporan.\n\nBila membutuhkan bantuan informasi tambahan, Anda juga dapat menghubungi kontak resmi BRMP-PH:\n- Telepon: (0251) 8382563\n- WhatsApp: 081805503899\n- Email: brmp.pengelolahasil@pertanian.go.id"
+    },
+    {
+      "id": "Kepala Balai BRMP PH",
+      "category": "Kepala Balai BRMP PH",
+      "questions": [
+        "Siapakah Kepala Balai BRMP PH",
+        "siapa kepala balai BRMP PH",
+        "siapakah kepala balai brmp pengelola hasil"
+      ],
+      "answer": "BRMP Pengelola Hasil dikepalai oleh Ibu Nuning Nugrahani, S.Pt., M.Si. sesuai Surat Keputusan Menteri Pertanian Nomor 308/Kpts./KP.230/A/05/2025 tanggal 15 Mei 2025 tentang Pemberhentian, Pemindahan, dan Pengangkatan Pejabat Administrator dan Pengawas Lingkup Badan Perakitan dan Modernisasi Pertanian."
+    }
+  ]
+}

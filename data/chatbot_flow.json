@@ -1,0 +1,877 @@
+{
+    "main_menu": {
+        "id": "main_menu",
+        "type": "menu",
+        "greeting": [
+            "Halo, selamat datang di Balai Pengelola Hasil Perakitan dan Modernisasi Pertanian! 🌻"
+        ],
+        "message": "Ada yang bisa kami bantu?",
+        "options": [
+            { "id": "pengenalan", "label": "Pengenalan BRMP-PH", "icon": "🏢", "target": "pengenalan" },
+            { "id": "layanan", "label": "Layanan", "icon": "🛠️", "target": "layanan" },
+            { "id": "kunjungi_kami", "label": "Kunjungi Kami", "icon": "📍", "target": "kunjungi_kami" },
+            { "id": "portal_lainnya", "label": "Portal Lainnya", "icon": "🌐", "target": "portal_lainnya" }
+        ]
+    },
+
+    "pengenalan": {
+        "id": "pengenalan",
+        "type": "text",
+        "message": "Balai Pengelola Hasil Perakitan dan Modernisasi Pertanian kerap disebut sebagai BRMP Pengelola Hasil (BRMP PH) yang berfokus pada pengelolaan hasil perekayasaan, perakitan, standarnisasi dan modernisasi pertanian",
+        "options": [
+            { "id": "mari_mengenal", "label": "Mari lebih mengenal", "target": "pengenalan_menu" },
+            { "id": "cukup_paham", "label": "Ok, cukup paham", "target": "main_menu" }
+        ]
+    },
+
+    "pengenalan_menu": {
+        "id": "pengenalan_menu",
+        "type": "menu",
+        "message": "Mari lebih mengenal BRMP Pengelola Hasil. Silakan pilih informasi yang ingin Anda ketahui.",
+        "options": [
+            { "id": "tugas_fungsi", "label": "Tugas dan Fungsi", "icon": "📋", "target": "tugas_fungsi" },
+            { "id": "dasar_hukum", "label": "Dasar Hukum", "icon": "⚖️", "target": "dasar_hukum" },
+            { "id": "sdm", "label": "Sumber Daya Manusia", "icon": "👥", "target": "sdm" },
+            { "id": "struktur_organisasi", "label": "Struktur Organisasi", "icon": "🏛️", "target": "struktur_organisasi" }
+        ],
+        "actions": [
+            { "id": "home", "label": "Menu Utama", "target": "main_menu" }
+        ]
+    },
+
+    "tugas_fungsi": {
+        "id": "tugas_fungsi",
+        "type": "text",
+        "title": "Tugas dan Fungsi",
+        "message": "Disebutkan dalam Permentan Nomor 10 Tahun 2025 Pasal 132 dan Pasal 133, bahwa:\n\nTugas:\nMelaksanakan pengelolaan hasil perekayasaan, perakitan, standarnisasi dan modernisasi pertanian.\n\nFungsi:\n1. Pelaksanaan penyusunan rencana kegiatan dan anggaran di bidang pengelolaan hasil perekayasaan, perakitan, standardisasi dan modernisasi pertanian.\n2. Pelaksanaan pengelolaan hasil perekayasaan, perakitan, standardisasi dan modernisasi pertanian.\n3. Pelaksanaan pengendalian, pemanfaatan, dan pengelolaan hasil perekayasaan, perakitan, standardisasi dan modernisasi pertanian.",
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pengenalan",
+                "target": "pengenalan_menu"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "dasar_hukum": {
+        "id": "dasar_hukum",
+        "type": "text",
+        "title": "Dasar Hukum",
+        "message": "Dasar hukum yang berkaitan dengan BRMP Pengelola Hasil antara lain:\n\n1. Permentan Nomor 13 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Lingkup Badan Standardisasi Instrumen Pertanian tanggal 17 Januari 2023, khususnya pada Pasal 157 huruf (e).\n\n2. Keputusan Menteri Pertanian Nomor 279 Tahun 2023 tentang Kelompok Substansi dan Tim Kerja pada Kelompok Jabatan Fungsional Lingkup Unit Pelaksana Teknis Kementerian Pertanian tanggal 5 Juni 2023, khususnya pada Bab X: Balai Informasi Standar Instrumen Pertanian pada No. 2 Uraian Tugas Tim Kerja Pengelolaan Hasil SIP.\n\n3. Keputusan Menteri Pertanian Nomor 488/Kpts/HK.520/M/08/2023 tentang Penunjukan BISIP sebagai Kuasa Pendaftaran HKI, PVT dan Penatakelolaan PNBP ATB Kementan tanggal 22 Agustus 2023, dimana disebutkan pemberlakuannya sejak 1 Juni 2023.",
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pengenalan",
+                "target": "pengenalan_menu"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "sdm": {
+        "id": "sdm",
+        "type": "text",
+        "title": "Sumber Daya Manusia",
+        "message": "BRMP Pengelola Hasil dikepalai oleh Ibu Nuning Nugrahani, S.Pt., M.Si. sesuai Surat Keputusan Menteri Pertanian Nomor 308/Kpts./KP.230/A/05/2025 tanggal 15 Mei 2025 tentang Pemberhentian, Pemindahan, dan Pengangkatan Pejabat Administrator dan Pengawas Lingkup Badan Perakitan dan Modernisasi Pertanian.",
+        "follow_up": [{
+            "delay": 2000,
+            "type": "image",
+            "image": "/images/bu nuning.jpg"
+
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pengenalan",
+                "target": "pengenalan_menu"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "struktur_organisasi": {
+        "id": "struktur_organisasi",
+        "type": "text",
+        "title": "Struktur Organisasi",
+        "message": "Berikut struktur organisasi BRMP Pengelola Hasil.",
+        "follow_up": [{
+            "delay": 2000,
+            "type": "image",
+            "image": "/images/struktur-organisasi.jpg"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pengenalan",
+                "target": "pengenalan_menu"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+
+    "layanan": {
+        "id": "layanan",
+        "type": "menu",
+        "message": "Layanan BRMP Pengelola Hasil memiliki 4 layanan utama. Silakan pilih layanan yang Anda butuhkan.",
+        "options": [{
+                "id": "layanan_1",
+                "label": "Layanan Informasi Hasil Standar Instrumen Pertanian",
+                "icon": "📚",
+                "target": "layanan_1"
+            },
+            {
+                "id": "layanan_2",
+                "label": "Pengelolaan Hasil Perakitan dan Modernisasi Pertanian",
+                "icon": "🧪",
+                "target": "layanan_2"
+            },
+            {
+                "id": "layanan_3",
+                "label": "Pemanfaatan Hasil Perakitan dan Modernisasi Pertanian",
+                "icon": "🌾",
+                "target": "layanan_3"
+            },
+            {
+                "id": "layanan_4",
+                "label": "Pendampingan & Konsultasi Pemanfaatan Hasil PMP",
+                "icon": "🤝",
+                "target": "layanan_4"
+            }
+        ],
+        "actions": [{
+            "id": "home",
+            "label": "Menu Utama",
+            "target": "main_menu"
+        }]
+    },
+
+
+    "layanan_1": {
+        "id": "layanan_1",
+        "type": "text",
+        "title": "Layanan Informasi Hasil Standar Instrumen Pertanian",
+        "message": "BRMP Pengelola Hasil berkomitmen untuk memberikan pelayanan maksimal dengan motto:\n\nSMILE yaitu:\n\nS - Sistematis dan Terstruktur sesuai arahan/aturan yang berlaku;\n\nM - Manageable/Negotiable;\n\nI - Integrated collaborator lintas stakeholder;\n\nL - Legally protected and Informative;\n\nE - Efisien, Efektif, Bermanfaat secara ekonomis.\n\nDengan pola kerja dan sikap SMILE, Listen and Action.\n\nAdapun layanan informasi yang dapat diakses adalah:\n\n(1) Informasi penyusunan perakitan dan modernisasi pertanian\n\n(2) Informasi Dokumen Standar Nasional Indonesia (SNI)\n\nSilakan pilih informasi yang ingin Anda ketahui!",
+        "options": [{
+                "id": "informasi_perakitan_modernisasi",
+                "label": "Informasi Penyusunan Perakitan dan Modernisasi Pertanian",
+                "target": "informasi_perakitan_modernisasi"
+            },
+            {
+                "id": "informasi_sni",
+                "label": "Informasi Dokumen Standar Nasional Indonesia (SNI)",
+                "target": "informasi_sni"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Layanan",
+                "target": "layanan"
+            },
+
+            {
+                "id": "back",
+                "label": "Kembali ke Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "informasi_perakitan_modernisasi": {
+        "id": "informasi_perakitan_modernisasi",
+        "type": "text",
+        "title": "Informasi Penyusunan Perakitan dan Modernisasi Pertanian",
+        "message": "BRMP Pengelola Hasil memberikan pelayanan kebutuhan informasi terkait dengan penyusunan perakitan dan modernisasi pertanian. Misalnya berkaitan dengan:\n\n1. Perlindungan KI Rezim Paten, Cipta, Merek, Hak PVT\n2. Pemanfaatan KI (Lisensi)\n3. Petunjuk Teknis Budidaya/Pascapanen\n4. SOP Budidaya/Pascapanen\n5. Dokumen SNI Sektor Pertanian\n6. Kebijakan pendukung standar di sektor pertanian\n7. RSNI\n\nAnda bisa akses form berikut untuk permohonan informasi berkaitan!",
+        "options": [{
+            "id": "form_permohonan_informasi",
+            "label": "Form Permohonan Informasi",
+            "action": "external",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSeaSQHN2bUe9gKdlLXMuSDmWaPKXW2UPGTUHrItUbrWL5ydsw/viewform"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pilihan Layanan",
+                "target": "layanan_1"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "informasi_sni": {
+        "id": "informasi_sni",
+        "type": "text",
+        "title": "Informasi Dokumen Standar Nasional Indonesia (SNI)",
+        "message": "Informasi mengenai Dokumen Standar Nasional Indonesia (SNI) sektor pertanian dapat diakses melalui layanan informasi BRMP Pengelola Hasil.\n\nSilakan pilih kembali layanan informasi lainnya apabila diperlukan.",
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pilihan Layanan",
+                "target": "layanan_1"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+
+
+    "layanan_2": {
+        "id": "layanan_2",
+        "type": "menu",
+        "message": "Layanan Pengelolaan Hasil Perakitan dan Modernisasi Pertanian mencakup pengelolaan hasil penelitian dan pengembangan yang merupakan Aset Tak Berwujud (ATB) Kementerian Pertanian, termasuk hasil kekayaan intelektual.\n\nSilakan pilih jenis kekayaan intelektual yang ingin Anda ketahui.",
+        "options": [{
+                "id": "paten",
+                "label": "Paten",
+                "icon": "📜",
+                "target": "paten"
+            },
+            {
+                "id": "hak_pvt",
+                "label": "Hak PVT",
+                "icon": "🌱",
+                "target": "hak_pvt"
+            },
+            {
+                "id": "hak_cipta",
+                "label": "Hak Cipta",
+                "icon": "©️",
+                "target": "hak_cipta"
+            },
+            {
+                "id": "merek",
+                "label": "Merek",
+                "icon": "™️",
+                "target": "merek"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Layanan",
+                "target": "layanan"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "paten": {
+        "id": "paten",
+        "type": "menu",
+        "message": "Paten adalah hak eksklusif yang diberikan oleh negara kepada inventor atas hasil invensinya di bidang teknologi untuk jangka waktu tertentu, dengan melaksanakan sendiri invensi tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya.\n\nPaten diatur dalam Undang-Undang Republik Indonesia Nomor 13 Tahun 2016 tentang Paten dan Permenkumham Nomor 13 Tahun 2021.\n\nSilakan pilih informasi yang ingin Anda ketahui.",
+        "options": [{
+                "id": "paten_persyaratan",
+                "label": "Persyaratan",
+                "icon": "📋",
+                "target": "paten_persyaratan"
+            },
+            {
+                "id": "paten_alur",
+                "label": "Bagaimana Alurnya?",
+                "icon": "🗺️",
+                "target": "paten_alur"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Jenis HKI",
+                "target": "layanan_2"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "paten_persyaratan": {
+        "id": "paten_persyaratan",
+        "type": "text",
+        "title": "Persyaratan Pengajuan Paten",
+        "message": "Berikut dokumen yang dibutuhkan untuk pengajuan paten:\n\n1. Draft Spesifikasi Paten.\n2. Surat Pengalihan Hak Paten, yaitu surat pengalihan dari inventor ke satker dan surat pengalihan dari satker ke BRMP yang dalam hal ini diwakili oleh BRMP Pengelola Hasil.\n3. Surat Pernyataan Kepemilikan Paten.\n\nSilakan pilih informasi lainnya.",
+        "options": [{
+            "id": "paten_alur",
+            "label": "Bagaimana Alurnya?",
+            "icon": "🗺️",
+            "target": "paten_alur"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Paten",
+                "target": "paten"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "paten_alur": {
+        "id": "paten_alur",
+        "type": "image",
+        "title": "Alur Pengajuan Paten",
+        "message": "Berikut alur yang perlu dilakukan untuk pengajuan Paten.",
+        "image": "/images/alur-paten.jpg",
+        "options": [{
+            "id": "paten_persyaratan",
+            "label": "Persyaratan",
+            "icon": "📋",
+            "target": "paten_persyaratan"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Paten",
+                "target": "paten"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "hak_pvt": {
+        "id": "hak_pvt",
+        "type": "menu",
+        "message": "Hak Perlindungan Varietas Tanaman (Hak PVT) adalah hak khusus yang diberikan negara kepada pemulia dan/atau pemegang Hak PVT untuk menggunakan sendiri varietas hasil pemuliaannya atau memberi persetujuan kepada orang atau badan hukum lain untuk menggunakannya selama waktu tertentu.\n\nHak PVT diatur dalam Undang-Undang Republik Indonesia Nomor 29 Tahun 2000 tentang Perlindungan Varietas Tanaman.\n\nSilakan pilih informasi yang ingin Anda ketahui.",
+        "options": [{
+                "id": "pvt_persyaratan",
+                "label": "Persyaratan",
+                "icon": "📋",
+                "target": "pvt_persyaratan"
+            },
+            {
+                "id": "pvt_alur",
+                "label": "Bagaimana Alurnya?",
+                "icon": "🗺️",
+                "target": "pvt_alur"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Jenis HKI",
+                "target": "layanan_2"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "pvt_persyaratan": {
+        "id": "pvt_persyaratan",
+        "type": "text",
+        "title": "Persyaratan Pengajuan Hak PVT",
+        "message": "Persyaratan pengajuan Hak PVT:\n\n1. Formulir Permohonan Hak PVT sebanyak 2 rangkap dan bermaterai.\n2. Melampirkan foto varietas dan soft copy foto varietas yang dimohonkan.\n3. Melampirkan surat penugasan dari satker.\n\nSilakan pilih informasi lainnya.",
+        "options": [{
+            "id": "pvt_alur",
+            "label": "Bagaimana Alurnya?",
+            "icon": "🗺️",
+            "target": "pvt_alur"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Hak PVT",
+                "target": "hak_pvt"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "pvt_alur": {
+        "id": "pvt_alur",
+        "type": "image",
+        "title": "Alur Pengajuan Hak PVT",
+        "message": "Berikut alur yang perlu dilakukan untuk pengajuan Hak PVT.",
+        "image": "/images/alur-pvt.jpg",
+        "options": [{
+            "id": "pvt_persyaratan",
+            "label": "Persyaratan",
+            "icon": "📋",
+            "target": "pvt_persyaratan"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Hak PVT",
+                "target": "hak_pvt"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "hak_cipta": {
+        "id": "hak_cipta",
+        "type": "menu",
+        "message": "Hak Cipta adalah hak eksklusif bagi pencipta atau penerima hak untuk mengumumkan atau memperbanyak ciptaannya atau memberikan izin untuk itu dengan tidak mengurangi pembatasan-pembatasan menurut peraturan perundang-undangan yang berlaku.\n\nHak Cipta diatur dalam Undang-Undang Republik Indonesia Nomor 28 Tahun 2014 tentang Hak Cipta.\n\nSilakan pilih informasi yang ingin Anda ketahui.",
+        "options": [{
+                "id": "hak_cipta_persyaratan",
+                "label": "Persyaratan",
+                "icon": "📋",
+                "target": "hak_cipta_persyaratan"
+            },
+            {
+                "id": "hak_cipta_alur",
+                "label": "Bagaimana Alurnya?",
+                "icon": "🗺️",
+                "target": "hak_cipta_alur"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Jenis HKI",
+                "target": "layanan_2"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "hak_cipta_persyaratan": {
+        "id": "hak_cipta_persyaratan",
+        "type": "text",
+        "title": "Persyaratan Pendaftaran Hak Cipta",
+        "message": "Persyaratan Pendaftaran Hak Cipta:\n\n1. Formulir Permohonan Pendaftaran Ciptaan, rangkap 3, lembar pertama bermaterai.\n2. Surat Pengalihan Hak, rangkap 3, 2 diantaranya bermaterai.\n3. Surat Pernyataan Kepemilikan, rangkap 3 dan bermaterai.\n4. KTP semua pencipta.\n5. KTP Kepala Satker.\n6. SK Satker.\n7. NPWP Satker.\n8. Melampirkan hasil ciptaan seperti peta, buku, lagu, logo atau gambar, program komputer disertai buku panduan, dan karya cipta lainnya sebanyak 4 rangkap (+ 1 untuk BISIP).\n\nSilakan pilih informasi lainnya.",
+        "options": [{
+            "id": "hak_cipta_alur",
+            "label": "Bagaimana Alurnya?",
+            "icon": "🗺️",
+            "target": "hak_cipta_alur"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Hak Cipta",
+                "target": "hak_cipta"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "hak_cipta_alur": {
+        "id": "hak_cipta_alur",
+        "type": "image",
+        "title": "Alur Pendaftaran Hak Cipta",
+        "message": "Berikut alur yang perlu dilakukan untuk pengajuan Hak Cipta.",
+        "image": "/images/alur-hak-cipta.jpg",
+        "options": [{
+            "id": "hak_cipta_persyaratan",
+            "label": "Persyaratan",
+            "icon": "📋",
+            "target": "hak_cipta_persyaratan"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Hak Cipta",
+                "target": "hak_cipta"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "merek": {
+        "id": "merek",
+        "type": "menu",
+        "message": "Merek adalah tanda yang dapat ditampilkan secara grafis berupa gambar, logo, nama, kata, huruf, angka, susunan warna, dalam bentuk 2 dimensi dan/atau 3 dimensi, suara, hologram, atau kombinasi dari 2 atau lebih unsur tersebut untuk membedakan barang dan/atau jasa yang diproduksi oleh orang atau badan hukum dalam kegiatan perdagangan barang dan/atau jasa.\n\nMerek diatur dalam Undang-Undang Republik Indonesia Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis dan Permenkumham Nomor 12 Tahun 2021.\n\nSilakan pilih informasi yang ingin Anda ketahui.",
+        "options": [{
+                "id": "merek_persyaratan",
+                "label": "Persyaratan",
+                "icon": "📋",
+                "target": "merek_persyaratan"
+            },
+            {
+                "id": "merek_alur",
+                "label": "Bagaimana Alurnya?",
+                "icon": "🗺️",
+                "target": "merek_alur"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Jenis HKI",
+                "target": "layanan_2"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "merek_persyaratan": {
+        "id": "merek_persyaratan",
+        "type": "text",
+        "title": "Persyaratan Permohonan Merek",
+        "message": "Persyaratan Permohonan Merek:\n\n1. Formulir Permohonan Merek.\n2. Surat Pernyataan Kepemilikan Merek.\n3. Etiket Merek.\n\nSilakan pilih informasi lainnya.",
+        "options": [{
+            "id": "merek_alur",
+            "label": "Bagaimana Alurnya?",
+            "icon": "🗺️",
+            "target": "merek_alur"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Merek",
+                "target": "merek"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "merek_alur": {
+        "id": "merek_alur",
+        "type": "image",
+        "title": "Alur Pengajuan Merek",
+        "message": "Berikut alur yang perlu dilakukan untuk pengajuan Merek.",
+        "image": "/images/alur-merek.jpg",
+        "options": [{
+            "id": "merek_persyaratan",
+            "label": "Persyaratan",
+            "icon": "📋",
+            "target": "merek_persyaratan"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Merek",
+                "target": "merek"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "layanan_3": {
+        "id": "layanan_3",
+        "type": "menu",
+        "message": "Layanan Pemanfaatan Hasil Perakitan dan Modernisasi Pertanian.\n\nKerja sama lisensi merupakan salah satu metode pemanfaatan yang dilaksanakan oleh BRMP Pengelola Hasil sesuai ketentuan yang berlaku.\n\nKomersialisasi dengan memanfaatkan Hasil Perakitan dan Modernisasi Pertanian (PMP) dan penatakelolaan Aset Tak Berwujud (ATB) dari hasil penelitian dan pengembangan yang dimiliki Kementerian Pertanian dilaksanakan dalam rangka pemanfaatan hasil.\n\nPemanfaatan dilakukan dengan memberikan hak (Lisensi) kepada pihak lain melalui mekanisme kerja sama yang diikat dengan Perjanjian Lisensi. Pelaksanaan pemanfaatan hasil dapat dilakukan apabila hasil PMP maupun hasil penelitian dan pengembangan telah mendapatkan perlindungan HKI.\n\nSilakan pilih informasi yang ingin Anda ketahui.",
+        "options": [{
+                "id": "pemanfaatan_persyaratan",
+                "label": "Persyaratan",
+                "icon": "📋",
+                "target": "pemanfaatan_persyaratan"
+            },
+            {
+                "id": "pemanfaatan_alur",
+                "label": "Bagaimana Alurnya?",
+                "icon": "🗺️",
+                "target": "pemanfaatan_alur"
+            },
+            {
+                "id": "jam_layanan",
+                "label": "Jam Layanan",
+                "icon": "🕐",
+                "target": "jam_layanan"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Layanan",
+                "target": "layanan"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "pemanfaatan_persyaratan": {
+        "id": "pemanfaatan_persyaratan",
+        "type": "text",
+        "title": "Persyaratan Pemanfaatan Hasil",
+        "message": "Persyaratan pengajuan pemanfaatan untuk hasil penelitian dan pengembangan bernilai KI yang dapat dilakukan dengan metode lisensi antara lain:\n\n1. Surat Permohonan yang ditujukan kepada Kepala BRMP dengan tembusan ke BRMP Pengelola Hasil dan Satuan Kerja.\n2. Profil Perusahaan.\n3. Akta Pendirian Usaha.\n4. Tanda Daftar Perusahaan.\n5. Surat Izin Usaha Perdagangan.\n6. NPWP Badan Usaha.\n7. Izin Usaha Industri/Produksi Benih/Perizinan lainnya.\n8. Surat Pernyataan.\n9. Dokumen lainnya terkait.\n\nSilakan pilih informasi lainnya.",
+        "options": [{
+                "id": "pemanfaatan_alur",
+                "label": "Bagaimana Alurnya?",
+                "icon": "🗺️",
+                "target": "pemanfaatan_alur"
+            },
+            {
+                "id": "jam_layanan",
+                "label": "Jam Layanan",
+                "icon": "🕐",
+                "target": "jam_layanan"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pemanfaatan",
+                "target": "layanan_3"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "pemanfaatan_alur": {
+        "id": "pemanfaatan_alur",
+        "type": "image",
+        "title": "Alur Pemanfaatan Hasil",
+        "message": "Berikut alur yang perlu dilakukan untuk mengajukan pemanfaatan hasil penelitian dan pengembangan.",
+        "image": "/images/alur-pemanfaatan.jpg",
+        "options": [{
+                "id": "pemanfaatan_persyaratan",
+                "label": "Persyaratan",
+                "icon": "📋",
+                "target": "pemanfaatan_persyaratan"
+            },
+            {
+                "id": "jam_layanan",
+                "label": "Jam Layanan",
+                "icon": "🕐",
+                "target": "jam_layanan"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pemanfaatan",
+                "target": "layanan_3"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "jam_layanan": {
+        "id": "jam_layanan",
+        "type": "text",
+        "title": "Jam Layanan",
+        "message": "Kontak Person: Tim Kerja Pengelolaan Hasil PMP\n\nWaktu Layanan: Senin - Jumat\n\nSenin: 07.30 - 16.00 WIB\nSelasa: 07.30 - 16.00 WIB\nRabu: 07.30 - 16.00 WIB\nKamis: 07.30 - 16.00 WIB\nJumat: 07.30 - 16.30 WIB\n\nIstirahat layanan:\nSenin - Kamis: 12.00 - 13.00 WIB\nJumat: 11.30 - 13.30 WIB",
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Pemanfaatan",
+                "target": "layanan_3"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "layanan_4": {
+        "id": "layanan_4",
+        "type": "menu",
+        "message": "Layanan pendampingan dan konsultasi ini berikan kepada calon mitra yang akan melakukan kerja pemanfaatan hasil standar instrument. Konsultasi yang diberikan dari BRMP Pengelola Hasil dilaksanakan untuk memediasi pelaksanaan pemanfaatan yang bisa saja dilakukan dengan kerja sama atau pun kerja sama lisensi.\n\nSebagaimana sampai saat ini kerja sama lisensi masih merupakan salah satu metode pemanfaatan yang dilaksanakan dengan baik oleh BRMP Pengelola Hasil sesuai ketentuan berlaku. Perbanyakan hasil dengan memanfaatkan Hasil Perakitan dan Modernisasi Pertanian (HPMP) dan melakukan penatakelolaan Aset Tak Berwujud (ATB) dilaksanakan dalam rangka pemanfaatan hasil.",
+        "options": [{
+                "id": "konsultasi_persyaratan",
+                "label": "Syarat Pengajuan",
+                "icon": "📋",
+                "target": "konsultasi_persyaratan"
+            },
+            {
+                "id": "konsultasi_alur",
+                "label": "Alur dan Layanan",
+                "icon": "🗺️",
+                "target": "konsultasi_alur"
+            }
+        ],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Layanan",
+                "target": "layanan"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "konsultasi_persyaratan": {
+        "id": "konsultasi_persyaratan",
+        "type": "text",
+        "title": "Syarat Pengajuan Konsultasi dan Pendampingan",
+        "message": "Persyaratan pengajuan permohonan konsultasi dan pendampingan antara lain:\n\n1. Surat Permohonan yang ditujukan kepada Kepala BRMP dengan tembusan ke BRMP Pengelola Hasil dan Satuan Kerja dengan mengungkapkan kebutuhan konsultasi dan pendampingan.\n2. Profil Perusahaan/CV Pribadi.\n3. KTP/Kartu Identitas lainnya.\n\nSilakan pilih informasi lainnya.",
+        "options": [{
+            "id": "konsultasi_alur",
+            "label": "Alur dan Layanan",
+            "icon": "🗺️",
+            "target": "konsultasi_alur"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Konsultasi",
+                "target": "layanan_4"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "konsultasi_alur": {
+        "id": "konsultasi_alur",
+        "type": "image",
+        "title": "Alur dan Layanan",
+        "message": "Berikut informasi alur dan layanan pendampingan serta konsultasi pemanfaatan hasil PMP.",
+        "image": "/images/alur-konsultasi.png",
+        "options": [{
+            "id": "konsultasi_persyaratan",
+            "label": "Syarat Pengajuan",
+            "icon": "📋",
+            "target": "konsultasi_persyaratan"
+        }],
+        "actions": [{
+                "id": "back",
+                "label": "Kembali ke Konsultasi",
+                "target": "layanan_4"
+            },
+            {
+                "id": "home",
+                "label": "Menu Utama",
+                "target": "main_menu"
+            }
+        ]
+    },
+
+    "kunjungi_kami": {
+        "id": "kunjungi_kami",
+        "type": "links",
+        "message": "Silakan pilih media sosial atau kontak yang ingin Anda kunjungi.",
+        "options": [{
+                "id": "instagram",
+                "label": "Instagram",
+                "icon": "📸",
+                "action": "external",
+                "url": "https://www.instagram.com/brmp.pengelola.hasil/"
+            },
+            {
+                "id": "facebook",
+                "label": "Facebook",
+                "icon": "👤",
+                "action": "external",
+                "url": "https://www.facebook.com/profile.php?id=100092450928563"
+            },
+            {
+                "id": "twitter",
+                "label": "Twitter / X",
+                "icon": "𝕏",
+                "action": "external",
+                "url": "https://x.com/brmpkelolahasil"
+            },
+            {
+                "id": "tiktok",
+                "label": "TikTok",
+                "icon": "🎵",
+                "action": "external",
+                "url": "https://www.tiktok.com/@brmp.pengelola.hasil"
+            },
+            {
+                "id": "lokasi",
+                "label": "Lokasi",
+                "icon": "📍",
+                "action": "external",
+                "url": "https://www.google.com/maps/search/?api=1&query=BRMP+Pengelola+Hasil"
+            },
+            {
+                "id": "email",
+                "label": "Email",
+                "icon": "✉️",
+                "action": "email",
+                "url": "mailto:brmp.pengelolahasil@pertanian.go.id"
+            }
+        ],
+        "actions": [{
+            "id": "home",
+            "label": "Menu Utama",
+            "target": "main_menu"
+        }]
+    },
+
+    "portal_lainnya": {
+        "id": "portal_lainnya",
+        "type": "links",
+        "message": "Silakan pilih portal yang ingin Anda kunjungi.",
+        "options": [{
+                "id": "perpustakaan",
+                "label": "Perpustakaan",
+                "icon": "📚",
+                "action": "external",
+                "url": "https://digilib.brmpkementan.id"
+            },
+            {
+                "id": "warta_agrostandar",
+                "label": "Warta Agrostandar",
+                "icon": "📰",
+                "action": "external",
+                "url": "https://epublikasi.pertanian.go.id/berkala/WA/index"
+            },
+            {
+                "id": "form_pengaduan",
+                "label": "Form Pengaduan",
+                "icon": "📝",
+                "action": "external",
+                "url": "https://www.lapor.go.id/"
+            }
+        ],
+        "actions": [{
+            "id": "home",
+            "label": "Menu Utama",
+            "target": "main_menu"
+        }]
+    }
+}
